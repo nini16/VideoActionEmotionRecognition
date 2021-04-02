@@ -22,4 +22,11 @@ Link to drive folder: (https://drive.google.com/drive/folders/1HUTsOb9Pzr8sP9kg2
 Link to videos: 
 1) (https://drive.google.com/file/d/12O4Gvbqz1Wh4w1uYhU3YZZP_8ZEc0vhJ/view?usp=sharing)
 2) (https://drive.google.com/file/d/1vef2YM3pr5rO-21J6TjcuFuUQ8hhRiDM/view?usp=sharing)
+<br/>
+<br/>
 
+PART 6:
+project folder: (https://github.com/nini16/VideoActionEmotionRecognition/tree/main/Part%206)
+Link to drive folder: (https://drive.google.com/drive/folders/1ttDnejN3CrCzNDWM44UFhdDQWrrLHSpK?usp=sharing)
+
+Videos can be found in the drive folder

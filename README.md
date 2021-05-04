@@ -1,13 +1,31 @@
 # VideoActionEmotionRecognition
-Link to videos: (https://drive.google.com/drive/folders/1d0RwqmJtQ6GT0qP7QvE2DkRTVTyVarGA?usp=sharing)
+Guide:  
+1) All project folders are named as "Submission {number}"  
+2) Tutorial videos for the TrainandTest and ApplyToVideo notebooks are in the Google drive!! In the google drive, the folder for each submission is na,ed as "v{number}". The links to the drive folder for each submission are also posted below.
+3) All codes are in https://github.com/nini16/VideoActionEmotionRecognition/tree/main/codes%20final  
 
-Link to Google drive: (https://drive.google.com/drive/folders/16AT5Sm-o4sx_PE3Dgls_wai2Py3kqgQt?usp=sharing)
+<br/>
+<br/>
+
+Submission 10 (Final):  
+Project folder: https://github.com/nini16/VideoActionEmotionRecognition/tree/main/Submission%2010  
+Link to Google drive: https://drive.google.com/drive/folders/1XULNTZzPHaqTFnlHRWTcS1ZmG2D6aefY?usp=sharing  
+
+Please note that the Tutorial videos for the TrainandTest and ApplyToVideo notebooks are in the Google drive!!  
+<br/>
+<br/>
+
+Submission 2:  
+Link to videos: (https://drive.google.com/drive/folders/1d0RwqmJtQ6GT0qP7QvE2DkRTVTyVarGA?usp=sharing)  
+Link to Google drive: (https://drive.google.com/drive/folders/16AT5Sm-o4sx_PE3Dgls_wai2Py3kqgQt?usp=sharing)  
+
+Videos can be found in Google drive folder
 <br/>
 <br/>
 
 Submission 3:  
-project folder: (https://github.com/nini16/VideoActionEmotionRecognition/tree/main/Part%203)
-Link to drive folder: (https://drive.google.com/drive/folders/1yUM-UocKyHfE5wc16UmPFN2JO868GLy9?usp=sharing)
+project folder: (https://github.com/nini16/VideoActionEmotionRecognition/tree/main/Part%203)  
+Link to drive folder: (https://drive.google.com/drive/folders/1yUM-UocKyHfE5wc16UmPFN2JO868GLy9?usp=sharing)  
 
 Link to videos: 
 1) (https://drive.google.com/file/d/1MxsaLJZ2NApDaf5C9b3GCPnyLmvQV842/view?usp=sharing)

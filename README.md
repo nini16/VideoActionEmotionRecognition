@@ -12,6 +12,8 @@ Project folder: https://github.com/nini16/VideoActionEmotionRecognition/tree/mai
 Link to Google drive: https://drive.google.com/drive/folders/1XULNTZzPHaqTFnlHRWTcS1ZmG2D6aefY?usp=sharing  
 
 Please note that the Tutorial videos for the TrainandTest and ApplyToVideo notebooks are in the Google drive!!  
+TrainandTest tutorial video: https://drive.google.com/file/d/1mKgTggVjdVLBFR4h34NGcXw_hk-td_8p/view?usp=sharing  
+ApplyToVideo tutorial video: https://drive.google.com/file/d/1x-qJrFPA7xXiE8iVFOsxIw4HNdY2SD2z/view?usp=sharing  
 <br/>
 <br/>
 
